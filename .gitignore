@@ -1,0 +1,14 @@
+# Maven target directory
+/target/
+
+# IDE settings
+/.idea/
+/*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+#.exe and .tsv because large file
+*.exe
+*.tsv

@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.outputPath": "target/classes",
+    "java.project.referencedLibraries": [
+      "C:/Users/colin/.m2/repository/org/openjfx/javafx-controls/23/javafx-controls-23.jar",
+      "C:/Users/colin/.m2/repository/org/openjfx/javafx-fxml/23/javafx-fxml-23.jar",
+      "C:/Users/colin/.m2/repository/org/openjfx/javafx-base/23/javafx-base-23.jar",
+      "C:/Users/colin/.m2/repository/org/openjfx/javafx-graphics/23/javafx-graphics-23.jar"
+    ],
+    "java.debug.settings.console": "integratedTerminal",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "css.validate": false
+  }

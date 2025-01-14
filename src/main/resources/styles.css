@@ -1,0 +1,66 @@
+/* Root Pane Styles */
+.root {
+    -fx-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -fx-padding: 50;
+    -fx-background-color: linear-gradient(to bottom, #2E2E2E, #1A1A1A);
+}
+
+/* Title Label Styles */
+.title {
+    -fx-font-size: 42px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFFFFF;
+    -fx-padding-bottom: 20px;
+    -fx-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+/* Explanation Label Styles */
+.explanation {
+    -fx-font-size: 20px;
+    -fx-font-weight: 400;
+    -fx-text-fill: #D6D6D6;
+    -fx-padding-bottom: 30px;
+    -fx-max-width: 800px;
+    -fx-line-spacing: 1.2;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+/* Text Field Styles */
+.text-field {
+    -fx-pref-width: 600;
+    -fx-font-size: 16px;
+    -fx-padding: 12;
+    -fx-border-color: #4A4A4A;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-background-color: #2B2B2B;
+    -fx-text-fill: #EAEAEA;
+    -fx-prompt-text-fill: #AAAAAA;
+}
+
+/* Button Styles */
+.button {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-padding: 12 24;
+    -fx-background-color: #0078D7;
+    -fx-text-fill: #FFFFFF;
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-cursor: hand;
+}
+
+/* Message Label Styles */
+.message-label {
+    -fx-font-size: 16px;
+    -fx-font-weight: 500;
+    -fx-text-fill: #CCCCCC;
+    -fx-padding-top: 20px;
+    -fx-max-width: 800px;
+    -fx-line-spacing: 1.2;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
