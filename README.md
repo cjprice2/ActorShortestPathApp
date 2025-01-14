@@ -21,7 +21,7 @@ ActorShortestPathApp is a JavaFX application for calculating the shortest path b
 ### Using the Installer
 1. Download the `.exe` installer from the [Releases](https://github.com/cjprice2/ActorShortestPathApp/releases).
 2. Run the installer and follow the on-screen instructions.
-3. Launch the application from the Start Menu or desktop shortcut.
+3. Launch the application from the Start Menu or from file explorer.
 
 ### Running from Source
 1. Clone this repository:
