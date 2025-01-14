@@ -9,8 +9,7 @@ ActorShortestPathApp is a JavaFX application for calculating the shortest path b
 
 ## Requirements
 ### For Running from Source
-- **Java 23 or Later**: Download and install from:
-  - [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html)
+- **Java 23 or Later**: Download and install from [Oracle](https://www.oracle.com/java/technologies/javase-downloads.html)
 - **Maven**: Ensure Maven is installed and configured on your system.
 
 ### For Using the Installer
@@ -33,6 +32,7 @@ ActorShortestPathApp is a JavaFX application for calculating the shortest path b
 3. Run the application:
    ```bash
    java --module-path "path_to_javafx_libs" --add-modules javafx.controls,javafx.fxml -jar target/ActorShortestPathApp-1.0-SNAPSHOT.jar
+   ```
    (Replace path_to_javafx_libs with the location of your JavaFX modules.)
 
 ### Credits 
