@@ -31,6 +31,7 @@ ActorShortestPathApp is a JavaFX application for calculating the shortest path b
 2. Build the project using Maven:
    mvn clean package
 3. Run the application:
+   ```bash
    java --module-path "path_to_javafx_libs" --add-modules javafx.controls,javafx.fxml -jar target/ActorShortestPathApp-1.0-SNAPSHOT.jar
    (Replace path_to_javafx_libs with the location of your JavaFX modules.)
 
